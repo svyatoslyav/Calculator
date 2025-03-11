@@ -17,8 +17,8 @@
 ## Встановлення
 1. Клонуйте репозиторій або завантажте його архів:
    ```bash
-   git clone https://github.com/yourusername/calculator-tkinter.git
-   cd calculator-tkinter
+   git clone https://github.com/svyatoslyav/Calculator.git
+   cd Calculator
    ```
 2. Встановіть необхідні залежності:
    ```bash
